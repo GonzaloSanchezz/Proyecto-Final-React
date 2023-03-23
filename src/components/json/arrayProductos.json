@@ -1,0 +1,10 @@
+[
+    {"id":1, "nombre":"Remera trasher 1", "descripcion":"AAA", "imagen":"https://cncstore.com.ar/producto/remera-thrasher-roses-women/item-6080aa1e1d24e-3.png", "precio":"", "categoria":"remeras"},
+    {"id":2, "nombre":"Remera trasher 2", "descripcion":"AAA", "imagen":"https://brotecdn.sfo2.cdn.digitaloceanspaces.com/cncstore/uploads/2021/01/item-601019c3e668b-768x960.jpg", "precio":"", "categoria":"remeras"},
+    {"id":3, "nombre":"Remera trasher 3", "descripcion":"A", "imagen":"https://www.blowland.com.ar/16717-thickbox_default/remera-thrasher-flame-lifestyle-nino.jpg", "precio":"", "categoria":"remeras"},
+    {"id":4, "nombre":"Pantalon Nike 1", "descripcion":"A", "imagen":"https://c.static-nike.com/a/images/t_PDP_1280_v1/f_auto/elkdfvlcxghhdf8ah1as/pantalon-sportswear-pour-plus-age-W45rVf.jpg", "precio":"", "categoria":"pantalones"},
+    {"id":5, "nombre":"Pantalon Nike 2", "descripcion":"A", "imagen":"https://static.nike.com/a/images/t_PDP_1280_v1/f_auto/7c6bb233-27c1-4497-82fb-483b7958e4e7/pantalones-de-f%C3%BAtbol-dri-fit-academy-M0G9Jp.jpg", "precio":"", "categoria":"pantalones"},
+    {"id":6, "nombre":"Pantalon Nike 3", "descripcion":"A", "imagen":"https://static.nike.com/a/images/t_PDP_1280_v1/f_auto,q_auto:eco/957fc423-b5b2-4c39-97fd-3fddae786837/pantalon-sportswear-swoosh-pour-plus-age-D5Ztb5.jpg", "precio":"", "categoria":"pantalones"},
+    {"id":7, "nombre":"Campera Adidas 1", "descripcion":"A", "imagen":"https://static.dafiti.com.ar/p/adidasoriginals-8096-947264-1-zoom.jpg", "precio":"", "categoria":"camperas"},
+    {"id":8, "nombre":"Campera Adidas 2", "descripcion":"A", "imagen":"https://redsport.vteximg.com.br/arquivos/ids/710287-1000-1000/GA050005921.jpg?v=636349472241430000", "precio":"", "categoria":"camperas"}
+    ]
